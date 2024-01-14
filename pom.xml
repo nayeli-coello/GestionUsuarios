@@ -87,9 +87,9 @@
     </plugins>
     </build>
     <distributionManagement>
-    <repository>
+      <repository>
         <id>github</id>
         <url>https://maven.pkg.github.com/nayeli-coello/GestionUsuarios</url>
-    </repository>
+      </repository>
     </distributionManagement>
 </project>
